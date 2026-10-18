@@ -1,0 +1,8 @@
+# Field-day practice plan
+wpm = 20
+effective = 15
+tone = 650
+
+msg: CQ CQ DE W1AW W1AW K
+msg: PARIS PARIS
+msg: [SK] 73 [SK]
